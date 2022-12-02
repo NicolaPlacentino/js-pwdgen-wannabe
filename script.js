@@ -12,3 +12,6 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21 */
 const targetElement = document.getElementById('target')
 
 const userFirstName = prompt('Qual è il tuo nome?', 'Nicola')
+
+const userLastName = prompt('E il cognome?', 'Placentino')
+
