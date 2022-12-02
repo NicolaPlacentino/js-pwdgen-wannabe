@@ -15,3 +15,5 @@ const userFirstName = prompt('Qual è il tuo nome?', 'Nicola')
 
 const userLastName = prompt('E il cognome?', 'Placentino')
 
+const userFavColor = prompt('Qual è il tuo colore preferito?', 'Grigio')
+
