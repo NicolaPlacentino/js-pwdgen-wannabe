@@ -10,3 +10,5 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21 */
 // Stampare nome + cognome + colore preferito + 21 nel DOM
 
 const targetElement = document.getElementById('target')
+
+const userFirstName = prompt('Qual è il tuo nome?', 'Nicola')
