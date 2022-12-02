@@ -17,3 +17,4 @@ const userLastName = prompt('E il cognome?', 'Placentino')
 
 const userFavColor = prompt('Qual è il tuo colore preferito?', 'Grigio')
 
+const passwordNumber = 21
